@@ -9,3 +9,5 @@
 9. Inside a virtual env, pip install web3.
 10. Make sure the contract address in app.py is same as response from migrate command.
 11. python app.py ---> Runs contract prints hello world.
+
+credits : https://dev.to/gcrsaldanha/deploy-a-smart-contract-on-ethereum-with-python-truffle-and-web3py-5on
